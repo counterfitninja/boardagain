@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "boardagain",
+    "description": "",
+    "home_page_url": "https://www.boardagain.co.uk",
+    "feed_url": "https://www.boardagain.co.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Somerset"
+    },
+    "items": [
+        {
+            "id": "https://www.boardagain.co.uk/we-are-board-again.html",
+            "url": "https://www.boardagain.co.uk/we-are-board-again.html",
+            "title": "We are Board Again",
+            "author": {
+                "name": "Somerset"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-08T20:28:00+00:00",
+            "date_modified": "2026-02-08T20:28:00+00:00"
+        }
+    ]
+}

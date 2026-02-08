@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.boardagain.co.uk/sitemap.xml
