@@ -12,9 +12,9 @@
         {
             "id": "https://www.boardagain.co.uk/are-you-boared.html",
             "url": "https://www.boardagain.co.uk/are-you-boared.html",
-            "title": "are you boared? ",
-            "summary": "Our company aims to reuse the vast amounts of dry, cardboard waste that comes into Clarks Village every year as packaging. We want to&hellip;",
-            "content_html": "<p><strong>Our company aims to reuse the vast amounts of dry, cardboard waste that comes into Clarks Village every year as packaging. <br></strong></p>\n<p><strong>We want to use it as something which will benefit the community and the village as it comes a long way but is just taken away to be recycled after its first use.</strong></p>",
+            "title": "Are you board? ",
+            "summary": "Our company aims to reuse the vast amounts of dry, cardboard waste that comes into every year as packaging. We want to use it&hellip;",
+            "content_html": "<p><strong>Our company aims to reuse the vast amounts of dry, cardboard waste that comes into every year as packaging. <br></strong></p>\n<p><strong>We want to use it as something which will benefit the community amd the enviroment. </strong></p>",
             "image": "https://www.boardagain.co.uk/media/posts/13/4-hands-3xl.jpg",
             "author": {
                 "name": "IRB"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-03-01T16:27:59+00:00",
-            "date_modified": "2026-03-01T17:37:56+00:00"
+            "date_modified": "2026-03-04T17:26:18+00:00"
         }
     ]
 }
